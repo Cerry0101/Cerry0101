@@ -34,3 +34,8 @@
   
 </div>
 
+<h1>Views</h1>
+
+<img src="https://count.getloli.com/get/@Cerry0101?theme=rule34" alt="Cerry0101" />
+
+</div>
