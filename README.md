@@ -1,7 +1,9 @@
 ### Oi eu sou a Marcelle Lima
-- 🔭 Hoje eu trabalho com desenvolvimento web fullstack 
-- 🌱 Cursando LC-UFRA
-- ⚡ Fun fact: Eu estou a 2 anos sem foco em uma linguagem especifica, porém, estou conseguindo aprender as linguagens que queria.
+- 🔭 21 anos
+- 🖥️ Hoje eu trabalho com desenvolvimento web fullstack 
+- 🥇 Dou aulas de informática básica 
+- 🌱 Cursando LC-UFRA (6º semestre)
+- ⚡ Fun fact: Fiquei 2 anos sem foco em uma linguagem especifica, porém, estou conseguindo aprendi as linguagens que queria.
 
 <div>
   <a href="https://github.com/Cerry0101">
