@@ -38,7 +38,6 @@
 
 <h1>Views</h1>
 
-<img src="https://count.getloli.com/get/@Cerry0101?theme=rule34" alt="Cerry0101" />
                                                                                 
 ![Snake animation](https://github.com/cerry0101/cerry0101/blob/output/github-contribution-grid-snake.svg)
 
