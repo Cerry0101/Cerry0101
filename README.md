@@ -1,5 +1,5 @@
 ### Oi eu sou a Marcelle Lima
-- 🔭 21 anos
+- 🔭 22 anos
 - 🖥️ Desenvolvedora web fullstack na SEGUP
 - 🖥️ Professora de Desenvolvimento de Games na HappyCode
 - 🥇 Dou aulas de informática básica 
