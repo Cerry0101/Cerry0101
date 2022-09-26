@@ -4,7 +4,7 @@
 - 🖥️ Professora de Desenvolvimento de Games na HappyCode
 - 🥇 Dou aulas de informática básica 
 - 🌱 Cursando LC-UFRA (6º semestre)
-- ⚡ Fun fact: Fiquei 2 anos sem foco em uma linguagem especifica, porém, estou conseguindo aprender as linguagens que queria.
+- ⚡ Fun fact: Trabalho com qualquer coisa que ache impossível de aprender.
 
 <div>
   <a href="https://github.com/Cerry0101">
