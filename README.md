@@ -3,7 +3,7 @@
 - 🖥️ Desenvolvedora web fullstack na SEGUP
 - 🖥️ Professora de Desenvolvimento de Games na HappyCode
 - 🥇 Dou aulas de informática básica 
-- 🌱 Cursando LC-UFRA (6º semestre)
+- 🌱 Cursando LC-UFRA (8º semestre)
 - ⚡ Fun fact: Trabalho com qualquer coisa que ache impossível de aprender.
 
 <div style="display: inline_block"><br> 
