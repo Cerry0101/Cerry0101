@@ -13,7 +13,6 @@
   <img align="center" alt="Cerry-nodejs heigth="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Cerry-react heigth="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Cerry-php heigth="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="Cerry-laravel heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
   <img align="center" alt="Cerry-wordpress heigth="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
   <img align="center" alt="Cerry-joomla heigth="30" width="40"  src="https://cdn-icons-png.flaticon.com/512/5969/5969117.png" />
   <img align="center" alt="Cerry-durpal heigth="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" />
