@@ -27,9 +27,5 @@
   <a href="https://www.facebook.com/marcela.hyuuga.1654/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>         
   <a href="https://www.instagram.com/marcelle0101/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/cerry0101/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
-</div>
-                                                                                
-![Snake animation](https://github.com/cerry0101/cerry0101/blob/output/github-contribution-grid-snake.svg)
 
-</div>
+
