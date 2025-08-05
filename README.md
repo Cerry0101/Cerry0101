@@ -3,7 +3,7 @@
 - 🖥️ Ex Desenvolvedora web fullstack na SEGUP
 - 🖥️ Professora de Desenvolvimento de Habilidades na Happy
 - 🥇 Dou aulas de informática básica 
-- 🌱 Cursando LC-UFRA (8º semestre)
+- 🌱 Formada em Computação - UFRA 
 - ⚡ Fun fact: Trabalho com qualquer coisa que ache impossível de aprender.
 
 <div style="display: inline_block"><br> 
