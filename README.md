@@ -5,7 +5,6 @@
 - 🥇 Dou aulas de informática básica 
 - 🌱 Formada em Computação - UFRA 
 - ⚡ Fun fact: Trabalho com qualquer coisa que ache impossível de aprender.
-- Oi galera do tio Adson
 
 <div style="display: inline_block"><br> 
   <img align="center" alt="Cerry-html heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
