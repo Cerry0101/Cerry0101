@@ -52,12 +52,24 @@
 </div>
 
 <br>
+<div align="center">
+    <img src="./rockleevss_eqja599t-sem-fundo.gif" width="300" alt="Rock Lee e Sasuke batalhando" />
+  <div><samp>________________________________________</samp></div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cerry0101/Cerry0101/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cerry0101/Cerry0101/output/snake.svg" />
-  <img alt="Animação da cobrinha nas contribuições do GitHub" src="https://raw.githubusercontent.com/Cerry0101/Cerry0101/output/snake.svg" />
-</picture>
+  <br><br>
 
-<br>
+  <i>“O trabalho duro vence o dom natural.”</i>
+  <br>
+  <sub>🍃 Rock Lee</sub>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cerry0101/Cerry0101/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cerry0101/Cerry0101/output/snake.svg" />
+    <img
+      alt="Animação da cobrinha nas contribuições do GitHub"
+      src="https://raw.githubusercontent.com/Cerry0101/Cerry0101/output/snake.svg"
+      width="1000"
+    />
+  </picture>
+</div>
 
